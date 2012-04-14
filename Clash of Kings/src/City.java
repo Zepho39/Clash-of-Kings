@@ -5,7 +5,7 @@ public class City implements Land{
 	Man leader;
 	int moral;
 	
-	//will be a negative number, because a city consumes food every turn
+	/** will be a negative number, because a city consumes food every turn */
 	int foodperturn;		
 	
 }

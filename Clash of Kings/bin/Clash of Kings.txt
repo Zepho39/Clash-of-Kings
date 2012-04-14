@@ -2,7 +2,7 @@ Kings
 
 Robb Stark - Starks of Winterfell
 
-	According to show, the northern host is 18000 strong
+	According to show, the northern host is 18,000 strong
 
 	Bannermen
 		- WYMAN MANDERLY, Lord of White Harbor,
@@ -119,6 +119,8 @@ Jeofferey "Baratheon" - King's Landing
 
 
 Balon Greyjoy - Greyjoys of Iron Islands
+
+
 
 	Bannermen
 		- LORD Sawane BOTLEY, of Lordsport,

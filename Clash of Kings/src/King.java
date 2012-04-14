@@ -4,8 +4,11 @@ public class King{
 	ILo<Banner> banners;
 	ILo<Land> lands;
 	Family family;
+	
+	
 	int food;
 	int gold;
+	
 	int charisma;
 	int moral;
 	int honor;
